@@ -4,4 +4,8 @@
 - Created GitHub repository
 - Defined product name: GoalFlow
 - Added README and project structure
-- Started planning API and n8n workflow
+- Planned system architecture
+- Researching football APIs
+
+## Notes
+Main challenge: finding a reliable free football API.
